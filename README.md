@@ -69,9 +69,9 @@
   - [
   - [
 - <b>MailHog Overview<b>
- - [
- - [
- - [
+ -  [
+ -  [
+ -  [
 - <b>Setup MailHog<b>
 
 
