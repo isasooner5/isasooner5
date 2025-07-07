@@ -23,18 +23,18 @@
   - [
   - [
   - [
--<b> Input and Output Redirection<b>
+- <b>Input and Output Redirection<b>
   - [
   - [
   - [
--<b> Patterns, Process Control, and Variables<b>
+- <b>Patterns, Process Control, and Variables<b>
   - [
   - [
   - [
--<b> Users and Software<b>
+- <b>Users and Software<b>
   - [
   - [
   - [
--<b> 
+- <b> 
 <h2></h2>
 
