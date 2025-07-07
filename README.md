@@ -101,6 +101,51 @@
   - [
   - [
 - <b>Setup Detections & Alerts<b>
+  - [
+  - [
+  - [
+
+- <b>CYBER ATTACK - INITIAL ACCESS TO BREACHED
+
+- <b>Cyber Attack - initial Access to Breached Intro<b>
+   - [
+   - [
+   - [
+- <b>Provision Attacker Machine (Kali Linux)<b>
+   - [
+   - [
+   - [
+- <b>Prerequisites - Cyber Attack<b>
+   - [
+   - [
+   - [
+- <b>Reconnaissance - initial Access<b>
+   - [
+   - [
+   - [
+- <b>Lateral Movement Privelage Escalation<b>
+   - [
+   - [
+   - [
+- <b>Data Exfiltration<b>
+  - [
+  - [
+  - [
+
+- <b>CATCH THE ATTACKER:
+
+- <b>Defend - Catch the Attacker Introduction<b>
+  - [
+  - [
+  - [
+- <b>Investigation & Defense<b>
+ - [
+ - [
+ - [
+
+-<b>CONCLUSION:
+ - [
+ - 
 
 
 <h2></h2>
