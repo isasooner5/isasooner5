@@ -20,21 +20,21 @@
   - [
   - [
 - <b>Find and working with Files<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 -<b> Input and Output Redirection<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 -<b> Patterns, Process Control, and Variables<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 -<b> Users and Software<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 -<b> 
 <h2></h2>
 
