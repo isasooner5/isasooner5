@@ -52,7 +52,27 @@
   - [
   - [
   - [
-- <b> Provisio and setup Windows 11<b>
+- <b> Provision and setup Windows 11<b>
+  - [
+  - [
+  - [
+- <b>Provision and setup Ubuntu Desktop<b>
+  - [
+  - [
+  - [
+- <b>Corporate Server Overview<b>
+  - [
+  - [
+  - [
+- <b>Provision and setup CORP-SVR<b>
+  - [
+  - [
+  - [
+- <b>MailHog Overview<b>
+ - [
+ - [
+ - [
+- <b>Setup MailHog<b>
 
 
 <h2></h2>
