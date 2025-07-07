@@ -8,7 +8,7 @@
   -Working with Directories  
 - <b>Introduction to Linux</b>
   - [ <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Working with Directories </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
