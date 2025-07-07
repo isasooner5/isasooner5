@@ -20,19 +20,19 @@
   - [
   - [
  
-- <b>Find and working with Files
+- <b>Find and working with Files <b>
   -[
   -[
   -[
--<b> Input and Output Redirection
+-<b> Input and Output Redirection <b>
   -[
   -[
   -[
--<b> Patterns, Process Control, and Variables
+-<b> Patterns, Process Control, and Variables <b>
   -[
   -[
   -[
--<b> Users and Software
+-<b> Users and Software <b>
   -[
   -[
   -[
