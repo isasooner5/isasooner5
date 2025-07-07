@@ -2,7 +2,6 @@
 
 <h2>👨‍💻Build a Cybersecurity Homelab - A Practical Guide to Offense & Defense [Enterprise 101]
   Project:</h2>
-
 - <b>Skills Section 2: Introduction to Linux   
 - <b>Introduction to Linux</b>
   - [ <b><i>(Potentially NSFW)</b></i>
