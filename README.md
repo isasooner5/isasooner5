@@ -3,7 +3,7 @@
 <h2>👨‍💻Build a Cybersecurity Homelab - A Practical Guide to Offense & Defense [Enterprise 101]
   Project:</h2>
   
-- <b>Skills Section 2: Introduction to Linux:
+- <b>SKILLS SECTION INTRODUCTION TO LINUX:
   
 - <b>Introduction to Linux</b>
   - [ <b><i>(Potentially NSFW)</b></i>
@@ -36,7 +36,7 @@
   - [
   - [
   - [
-- <b>Build an Enterprise Network:
+- <b>BUILD AN ENTERPRISE NETWORK:
 - <b>Build a Business Network(CORP)Overview<b>
   - [
   - [
@@ -89,7 +89,8 @@
   - [
   - [
   - [
-- <b>S: 
+
+- <b>CREATE A VULNERABLE ENVIRONMENT & DETECTIONS INTRODUCTION: 
 
 
 <h2></h2>
