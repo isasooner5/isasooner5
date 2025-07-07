@@ -17,8 +17,25 @@
   - [
 - <b>File and Directory Permissions </b>
   - [
+  - [
+  - [
  
 - <b>Find and working with Files
-
+  -[
+  -[
+  -[
+-<b> Input and Output Redirection
+  -[
+  -[
+  -[
+-<b> Patterns, Process Control, and Variables
+  -[
+  -[
+  -[
+-<b> Users and Software
+  -[
+  -[
+  -[
+-<b> 
 <h2></h2>
 
