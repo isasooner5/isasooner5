@@ -37,21 +37,21 @@
   - [
 - <b>Build an Enterprise Network:
 - <b>Build a Business Network(CORP)Overview<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 - <b>Introduction to Active Directory<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 - <b>Build a Directory Services Server<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 - <b>Connecting to Active Directory<b>
-  -[
-  -[
-  -[
+  - [
+  - [
+  - [
 - <b> Provisio and setup Windows 11<b>
 
 
