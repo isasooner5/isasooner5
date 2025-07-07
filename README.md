@@ -90,7 +90,17 @@
   - [
   - [
 
-- <b>CREATE A VULNERABLE ENVIRONMENT & DETECTIONS INTRODUCTION: 
+- <b>CREATE A VULNERABLE ENVIRONMENT & DETECTIONS INTRODUCTION:
+
+- <b>Create a vulnerable Environment & Detections introduction<b>
+  - [
+  - [
+  - [
+- <b>Vulnerable Environment Configurations<b>
+  - [
+  - [
+  - [
+- <b>Setup Detections & Alerts<b>
 
 
 <h2></h2>
