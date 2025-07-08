@@ -6,7 +6,7 @@
 - <b>SKILLS SECTION INTRODUCTION TO LINUX:
   
 - <b>Introduction to Linux</b>
-  - [ <b><i>(Potentially NSFW)</b></i>
+  - [ <b><i>https://imgur.com/a/zjCb2w8</b></i>
 - <b>Working with Directories </b>
   - [
   - [
