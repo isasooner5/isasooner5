@@ -3,7 +3,7 @@
 <h2>👨‍💻Build a Cybersecurity Homelab - A Practical Guide to Offense & Defense [Enterprise 101]
   Project:</h2>
   
-- <b>SKILLS SECTION INTRODUCTION TO LINUX:
+- <b>SKILLS SECTION INTRODUCTION TO LINUX SECURITY IMPLICATIONS:
   
 - <b>Introduction to Linux</b>
   - [ <b><i>https://imgur.com/a/zjCb2w8</b></i>
