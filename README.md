@@ -8,7 +8,7 @@
 - <b>Introduction to Linux Security Implications</b>
   - [ <b><i>https://imgur.com/a/zjCb2w8</b></i>
 - <b>Working with Directories </b>
-  - [ https://imgur.com/a/zjCb2w8
+  - [ 
   - [ 
   - [
   - [
