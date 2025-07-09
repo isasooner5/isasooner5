@@ -9,7 +9,7 @@
   - [ <b><i>https://imgur.com/a/zjCb2w8</b></i>
 - <b>Working with Directories </b>
   - [ Navigating through directories within the tree structure in Linux
-  - [ 
+  - [ https://imgur.com/a/YcwYktU
   - [
   - [
 - <b>Navigating to terminal, navigation commnands, help</b>
