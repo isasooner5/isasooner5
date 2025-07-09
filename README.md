@@ -10,9 +10,7 @@
 - <b>Working with Directories </b>
   - [ https://imgur.com/a/YcwYktU
 - <b>Navigating to terminal, navigation commnands, help</b>
-  - [
-  - [
-  - [
+  - [https://imgur.com/a/gXEaB9h
 - <b>File and Directory Permissions</b>
   - [
   - [
