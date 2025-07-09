@@ -7,14 +7,15 @@
   
 - <b>Introduction to Linux Security Implications</b>
   - [ <b><i>https://imgur.com/a/zjCb2w8</b></i>
+  
 - <b>Working with Directories </b>
   - [ https://imgur.com/a/YcwYktU
+    
 - <b>Navigating to terminal, navigation commnands, help</b>
   - [https://imgur.com/a/gXEaB9h
 - <b>File and Directory Permissions</b>
-  - [
-  - [
-  - [
+  - [https://imgur.com/a/fbmeyIV
+    
 - <b>Find and working with Files<b>
   - [
   - [
