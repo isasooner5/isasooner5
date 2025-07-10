@@ -17,9 +17,8 @@
   - [https://imgur.com/a/fbmeyIV
     
 - <b>Find and working with Files<b>
-  - [
-  - [
-  - [
+  - [https://imgur.com/a/8GYz2dH
+  
 - <b>Input and Output Redirection<b>
   - [
   - [
