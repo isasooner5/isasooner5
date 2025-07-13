@@ -20,9 +20,7 @@
   - [https://imgur.com/a/8GYz2dH
   
 - <b>Input and Output Redirection<b>
-  - [
-  - [
-  - [
+  - [https://imgur.com/a/0KST0Yu
 - <b>Patterns, Process Control, and Variables<b>
   - [
   - [
