@@ -3,32 +3,6 @@
 <h2>👨‍💻Build a Cybersecurity Homelab - A Practical Guide to Offense & Defense [Enterprise 101]
   Project:</h2>
   
-- <b>SKILLS SECTION INTRODUCTION TO LINUX:
-  
-- <b>Introduction to Linux Security Implications</b>
-  - [ <b><i>https://imgur.com/a/zjCb2w8</b></i>
-  
-- <b>Working with Directories </b>
-  - [ https://imgur.com/a/YcwYktU
-    
-- <b>Navigating to terminal, navigation commnands, help</b>
-  - [https://imgur.com/a/gXEaB9h
-- <b>File and Directory Permissions</b>
-  - [https://imgur.com/a/fbmeyIV
-    
-- <b>Find and working with Files<b>
-  - [https://imgur.com/a/8GYz2dH
-  
-- <b>Input and Output Redirection<b>
-  - [https://imgur.com/a/0KST0Yu
-- <b>Patterns, Process Control, and Variables<b>
-  - [
-  - [
-  - [
-- <b>Users and Software<b>
-  - [
-  - [
-  - [
 - <b>BUILD AN ENTERPRISE NETWORK:
 - <b>Build a Business Network(CORP)Overview<b>
   - [
