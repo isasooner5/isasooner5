@@ -8,12 +8,10 @@
   - [https://imgur.com/a/zg1PAJJ
 - <b>Introduction to Active Directory<b>
   - [https://imgur.com/a/zg1PAJJ
-  - [
-  - [
+  
 - <b>Build a Directory Services Server<b>
-  - [
-  - [
-  - [
+  - [https://imgur.com/a/G1OpuEd
+  
 - <b>Connecting to Active Directory<b>
   - [
   - [
