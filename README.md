@@ -5,12 +5,13 @@
   
 - <b>BUILD AN ENTERPRISE NETWORK:
 - <b>Build a Business Network(CORP)Overview<b>
-  - [https://imgur.com/a/zg1PAJJ
+  - [https://imgur.com/a/EUYHpx4
+  
 - <b>Introduction to Active Directory<b>
-  - [https://imgur.com/a/zg1PAJJ
+  - [https://imgur.com/a/MxetzxD
   
 - <b>Build a Directory Services Server<b>
-  - [https://imgur.com/a/G1OpuEd
+  - [
   
 - <b>Connecting to Active Directory<b>
   - [
