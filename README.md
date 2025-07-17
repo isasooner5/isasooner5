@@ -11,7 +11,7 @@
   - [https://imgur.com/a/MxetzxD
   
 - <b>Build a Directory Services Server<b>
-  - [
+  - [https://imgur.com/a/Rvd6nBw
   
 - <b>Connecting to Active Directory<b>
   - [
